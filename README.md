@@ -20,6 +20,7 @@ The variables/coefficients that provided a non-random amount of variance to the 
 -	Vehicle weight
 -	Vehicle angle
 -	AWD
+
 The p-value of our linear regression analysis is 5.35e-11, which is much smaller than our assumed significance of level of 0.05%. Therefore, we can state that there is sufficient evidence to reject our null hypothesis, which means that the slope of our linear model is not zero.
 From our linear regression model, the r-squared value is 0.71. Which means that roughly 71% of our predictions will be correct. 
 
