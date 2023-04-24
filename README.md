@@ -37,7 +37,7 @@ Lot 1 has a variance of 1 and Lot 2 has a variance of 7, which means they are bo
 T-tests were performed to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.
 
 ### T-Test for all Lots
-The p-value for all lots is 0.06028 < 0.05, making it statistically different from the population mean. 
+The p-value for all lots is 0.06028 > 0.05, making it not statistically different from the population mean. 
 
 ![6](Images/6.png)
 
@@ -52,7 +52,7 @@ The p-value for Lot 2 is 0.6072 > 0.05, making it not statistically significant 
 ![8](Images/8.png)
 
 ### T-Test for Lot 3
-The p-value for Lot 3 is 0.04168 > 0.05, making it not statistically significant from the population mean.
+The p-value for Lot 3 is 0.04168 < 0.05, making it statistically significant from the population mean.
 
 ![9](Images/9.png)
 
